@@ -42,8 +42,8 @@
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-fayed&show_icons=true&locale=en&layout=compact" alt="the-fayed" /></p>
+<p><img width="380" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-fayed&show_icons=true&locale=en&layout=compact" alt="the-fayed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-fayed&show_icons=true&locale=en" alt="the-fayed" /></p>
+<p>&nbsp;<img width="380" align="center" src="https://github-readme-stats.vercel.app/api?username=the-fayed&show_icons=true&locale=en" alt="the-fayed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&" alt="the-fayed" /></p>
+<p><img width="380" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&" alt="the-fayed" /></p>

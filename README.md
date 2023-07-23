@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Back-End Development**
 
-- 💬 Ask me about **JavaScript, TypeScript, Node.js, Express.js, and MongoDB**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, and Express.js**
 
 - 📫 How to reach me **ll.ahmedfayed@gmail.com**
 

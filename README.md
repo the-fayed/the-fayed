@@ -19,7 +19,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ahmed-fayeed)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://Instagram.com/ahmeed_fayeed)
-[![Discord Badge](https://img.shields.io/badge/-Discord-3b5998?style=flat-square&logo=Discord&logoColor=white)](https://Discord.com/ahmedfayeed)
+[![Discord Badge](https://img.shields.io/badge/-Discord-3b5998?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/ahmedfayeed)
 
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></code>

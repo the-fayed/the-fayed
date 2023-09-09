@@ -21,7 +21,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://Instagram.com/ahmeed_fayeed)
 [![Discord Badge](https://img.shields.io/badge/-Discord-3b5998?style=flat-square&logo=Discord&logoColor=white)](https://Discord.com/ahmeed_fayeed)
 
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>

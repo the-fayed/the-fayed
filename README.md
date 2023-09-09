@@ -5,9 +5,8 @@
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!;+This+is+Ahmed+Fayed...;Nice+to+meet+you!&center=true&size=30">
     </a>
 </h1>
-<h3 align="center">Junior back-end developer | Node.js developer</h3>
+<h3 align="center">Junior Software Engineer | Node.Js Back-End Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 
 - 🌱 I’m currently learning **Back-End Development**
@@ -16,7 +15,13 @@
 
 - 📫 How to reach me **<a href="https://linkedin.com/in/ahmedfayeed" target="blank">LinkedIn</a>**
 
-<br><br><br>
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ahmed-fayeed)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://Instagram.com/ahmeed_fayeed)
+[![Discord Badge](https://img.shields.io/badge/-Discord-3b5998?style=flat-square&logo=Discord&logoColor=white)](https://Discord.com/ahmeed_fayeed)
+
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>

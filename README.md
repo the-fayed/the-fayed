@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, Node.js, and Express.js**
 
-- 📫 How to reach me **<a href="https://linkedin.com/in/ahmedfayeed" target="blank">LinkedIn</a>**
+- 📫 How to reach me on **<a href="https://linkedin.com/in/ahmedfayeed" target="blank">LinkedIn</a>**
 
 <br>
 

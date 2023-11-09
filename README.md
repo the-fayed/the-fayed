@@ -42,7 +42,7 @@
 <br><br>
 <p align=center>
   <div align=center>
-      <img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true" alt="the-fayed"/>
+      <img align="left" width="40.25%" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true" alt="the-fayed"/>
       <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
   </div>
   <br><br><br><br><br><br><br><br><br>

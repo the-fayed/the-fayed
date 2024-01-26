@@ -44,13 +44,14 @@
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,expressjs,nestjs,jest,mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgresql,redis,docker,git,github,linux,vscode)](https://skillicons.dev)
 
-<br><br><be>
+<br><br><br>
 
 <p align="center">
     <img width=310 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true"/>
     <img width=300 align="right" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
 </p>
 
+<br><br><br>
 <br><br><br>
 
 <p align="center">

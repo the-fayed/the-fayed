@@ -44,13 +44,18 @@
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,expressjs,nestjs,jest,mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgresql,redis,docker,git,github,linux,vscode)](https://skillicons.dev)
 
-<br><br><br>
+<br><br><be>
+
 <p align="center">
     <img width=310 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true"/>
     <img width=300 align="right" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-fayed&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
 </p>
 
+<br><br><br>
+
+<p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-fayed&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+</p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />

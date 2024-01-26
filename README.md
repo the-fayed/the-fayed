@@ -47,8 +47,8 @@
 <br><br><br>
 
 <p align="center">
-    <img width=350 height="358" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true"/>
-    <img width=350 height="350" align="right" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
+    <img width=320 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true"/>
+    <img width=320 align="right" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
 </p>
 
 <br><br><br>

@@ -48,13 +48,10 @@
 
 <div align="center">
     <p align="center">
-    <img width=320 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true"/>
-    <img width=320 align="right" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
+    <img width=340 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true"/>
+    <img width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
 </p>
 </div>
-
-<br><br><br>
-<br><br><br>
 
 <div align="center">
     <p align="center">

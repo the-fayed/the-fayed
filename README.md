@@ -49,7 +49,7 @@
 <div align="center">
     <p align="center">
     <img width=320 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-fayed&theme=react&border=61dafb&hide_border=true"/>
-    <img width=310 align="center" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=the-fayed&theme=react&hide_border=true&show_icons=true"/>
 </p>
 </div>
 

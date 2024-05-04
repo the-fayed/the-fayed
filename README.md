@@ -4,7 +4,7 @@
     <p>Support peace, justice, and human rights for Palestine  🇵🇸.</p>
 </div>
 
---- 
+---
 <div >
     <!-- visitors section -->
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=the-fayed.the-fayed"/>
